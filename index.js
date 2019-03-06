@@ -44,7 +44,7 @@ function findTheCheese (foods) {
       let curFoods =foods[i];
       if(curCheese===curFoods) return foods[j]
     }
-    
+
   }
   return "no cheese"
 }
