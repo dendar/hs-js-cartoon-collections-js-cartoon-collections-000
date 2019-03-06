@@ -41,7 +41,7 @@ function findTheCheese (foods) {
   for (var i = 0; i < cheese.length; i++) {
     let curCheese = cheese[i];
     for(let j=0; j<foods.length; j++){
-      let curFoods =foods[i];
+      let curFoods =foods[j];
       if(curCheese===curFoods) return foods[j]
     }
 
