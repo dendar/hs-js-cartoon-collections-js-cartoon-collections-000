@@ -26,7 +26,7 @@ function summonCaptainPlanet(planeteerCalls){
     let cur =planeteerCalls[i]
 
 
-     curA += `"${cur}!" `
+     curA += `"${cur}!"`
 
   }
  return curA.toUpperCase()  ;
