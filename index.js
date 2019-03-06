@@ -14,8 +14,8 @@ function dwarfRollCall(dwarves) {
 
 
    }
-   return newStr;
-  
+   return newStr.join(" "));
+
 }
 
 function summonCaptainPlanet(planeteerCalls){
