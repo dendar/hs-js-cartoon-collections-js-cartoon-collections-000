@@ -21,15 +21,15 @@ function dwarfRollCall(dwarves) {
 function summonCaptainPlanet(planeteerCalls){
 
 
- //  let curA= " "
- //  for(let i=0;i<planeteerCalls.length;i++){
- //    let cur =planeteerCalls[i]
- //
- //
- //     curA += `"${cur}!" `
- //
- //  }
- // return curA.toUpperCase()  ;
+  let curA= " "
+  for(let i=0;i<planeteerCalls.length;i++){
+    let cur =planeteerCalls[i]
+
+
+     curA += `"${cur}!" `
+
+  }
+ return curA.toUpperCase()  ;
 
   //*****************
   // let str =[];
