@@ -14,7 +14,7 @@ function dwarfRollCall(dwarves) {
 
 
    }
-   return newStr.join(" "));
+   return newStr.join(" ");
 
 }
 
